@@ -1,0 +1,2 @@
+module Jave_project {
+}
